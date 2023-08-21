@@ -1,0 +1,23 @@
+# Logfile created on 2023-02-22 17:21:16 +0800 by logger.rb/44203
+I, [02-22 17:21:16#12320]  INFO -- : Application starting
+W, [02-22 17:21:16#12320]  WARN -- : Fail to Search:undefined local variable or method `log' for main:Object
+I, [02-22 17:22:15#9308]  INFO -- : Application starting
+W, [02-22 17:22:15#9308]  WARN -- : Fail to Search:undefined local variable or method `log' for main:Object
+I, [02-22 17:35:58#12052]  INFO -- : Application starting
+W, [02-22 17:35:58#12052]  WARN -- : Fail to Search:undefined local variable or method `log' for main:Object
+I, [02-22 17:39:53#11772]  INFO -- : Application starting
+W, [02-22 17:39:53#11772]  WARN -- : Fail to Open file:No such file or directory @ rb_sysopen - datafile
+W, [02-22 17:39:53#11772]  WARN -- : Fail to Search:undefined method `close' for nil:NilClass
+I, [02-22 17:40:52#744]  INFO -- : Application starting
+W, [02-22 17:40:52#744]  WARN -- : Fail to Open file:No such file or directory @ rb_sysopen - datafile
+W, [02-22 17:40:52#744]  WARN -- : Fail to Search:No such file or directory @ rb_sysopen - datafile
+I, [02-22 17:42:04#15052]  INFO -- : Application starting
+W, [02-22 17:42:04#15052]  WARN -- : Fail to Search:no implicit conversion of Errno::ENOENT into String
+I, [02-22 17:43:22#2352]  INFO -- : Application starting
+W, [02-22 17:43:22#2352]  WARN -- : Fail to Search:closed stream
+I, [02-22 17:44:07#2268]  INFO -- : Application starting
+W, [02-22 17:44:07#2268]  WARN -- : Fail to Search:undefined local variable or method `data' for main:Object
+I, [02-22 17:46:54#3744]  INFO -- : Application starting
+I, [02-22 17:48:41#13744]  INFO -- : Application starting
+I, [02-22 20:14:30#560]  INFO -- : Application starting
+I, [02-22 20:20:50#3372]  INFO -- : Application starting

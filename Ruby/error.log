@@ -1,0 +1,132 @@
+# Logfile created on 2023-02-10 18:37:09 +0800 by logger.rb/44203
+I, [02-10 18:37:09#5028]  INFO -- : Application starting
+I, [02-10 18:41:49#7152]  INFO -- : Application starting
+I, [02-10 18:43:10#4996]  INFO -- : Application starting
+W, [02-10 18:43:27#4996]  WARN -- : Fail to session:
+I, [02-10 18:44:13#9600]  INFO -- : Application starting
+I, [02-10 18:46:35#8328]  INFO -- : Application starting
+W, [02-10 18:46:57#8328]  WARN -- : Fail to session:
+I, [02-10 18:48:12#496]  INFO -- : Application starting
+I, [02-10 18:49:43#5816]  INFO -- : Application starting
+I, [02-10 18:52:48#4960]  INFO -- : Application starting
+W, [02-10 18:53:14#5816]  WARN -- : Fail to session:
+I, [02-10 18:53:54#11596]  INFO -- : Application starting
+I, [02-10 18:55:33#11960]  INFO -- : Application starting
+W, [02-10 18:56:31#11960]  WARN -- : Fail to session:
+I, [02-10 18:57:30#1652]  INFO -- : Application starting
+I, [02-11 10:24:58#2616]  INFO -- : Application starting
+I, [02-11 17:16:36#8524]  INFO -- : Application starting
+I, [02-11 17:18:47#10388]  INFO -- : Application starting
+I, [02-11 17:27:22#11204]  INFO -- : Application starting
+I, [02-11 17:33:16#12344]  INFO -- : Application starting
+W, [02-11 17:39:33#12344]  WARN -- : Fail to session:Broken pipe
+I, [02-11 17:40:26#7864]  INFO -- : Application starting
+W, [02-11 17:40:36#7864]  WARN -- : Fail to session:Broken pipe
+I, [02-11 17:46:12#13928]  INFO -- : Application starting
+W, [02-11 17:50:10#13928]  WARN -- : Fail to session:Broken pipe
+I, [02-11 17:50:48#12124]  INFO -- : Application starting
+I, [02-11 17:54:35#10940]  INFO -- : Application starting
+I, [02-11 17:59:11#7756]  INFO -- : Application starting
+I, [02-11 18:01:13#12692]  INFO -- : Application starting
+I, [02-11 18:03:36#4468]  INFO -- : Application starting
+I, [02-11 18:10:06#12860]  INFO -- : Application starting
+W, [02-11 18:10:14#12860]  WARN -- : Fail to session:undefined method `foreach' for #<File:datafile>
+I, [02-11 18:11:56#4044]  INFO -- : Application starting
+W, [02-11 18:12:11#4044]  WARN -- : Fail to session:uninitialized constant Nil
+I, [02-11 18:45:18#12600]  INFO -- : Application starting
+W, [02-11 19:30:27#12600]  WARN -- : Fail to session:Broken pipe
+I, [02-11 19:33:27#9636]  INFO -- : Application starting
+I, [02-11 20:00:19#11196]  INFO -- : Application starting
+I, [02-11 20:03:05#13912]  INFO -- : Application starting
+W, [02-11 22:01:42#13912]  WARN -- : Fail to session:Broken pipe
+I, [02-11 22:01:49#8592]  INFO -- : Application starting
+W, [02-11 22:05:23#8592]  WARN -- : Fail to session:Broken pipe
+I, [02-11 22:06:05#14836]  INFO -- : Application starting
+W, [02-11 22:14:01#14836]  WARN -- : Fail to session:Broken pipe
+I, [02-11 22:14:25#6804]  INFO -- : Application starting
+W, [02-11 22:14:42#6804]  WARN -- : Fail to session:Broken pipe
+I, [02-11 22:22:12#12600]  INFO -- : Application starting
+I, [02-11 22:23:34#11148]  INFO -- : Application starting
+I, [02-11 23:14:26#5380]  INFO -- : Application starting
+I, [02-11 23:19:33#14160]  INFO -- : Application starting
+W, [02-11 23:56:06#14160]  WARN -- : Fail to session:Broken pipe
+I, [02-11 23:56:24#13572]  INFO -- : Application starting
+I, [02-22 22:02:47#10848]  INFO -- : Application starting
+W, [02-22 23:02:00#10848]  WARN -- : Fail to session:Broken pipe
+I, [02-22 23:02:40#16704]  INFO -- : Application starting
+W, [02-22 23:02:59#16704]  WARN -- : Fail to session:Broken pipe
+I, [02-22 23:04:01#15228]  INFO -- : Application starting
+W, [02-22 23:04:12#15228]  WARN -- : Fail to session:Broken pipe
+I, [02-22 23:04:32#15824]  INFO -- : Application starting
+W, [02-22 23:04:44#15824]  WARN -- : Fail to session:Broken pipe
+I, [02-22 23:05:30#11436]  INFO -- : Application starting
+I, [02-22 23:21:55#9668]  INFO -- : Application starting
+I, [02-22 23:28:00#13476]  INFO -- : Application starting
+W, [02-22 23:28:37#13476]  WARN -- : Fail to session:Broken pipe
+I, [02-22 23:33:36#2856]  INFO -- : Application starting
+W, [02-22 23:34:22#2856]  WARN -- : Fail to session:Broken pipe
+I, [02-22 23:35:18#19176]  INFO -- : Application starting
+I, [02-22 23:38:54#852]  INFO -- : Application starting
+W, [02-22 23:40:15#852]  WARN -- : Fail to session:Broken pipe
+I, [02-22 23:40:43#17044]  INFO -- : Application starting
+W, [02-22 23:47:24#17044]  WARN -- : Fail to session:Broken pipe
+I, [02-22 23:48:03#1128]  INFO -- : Application starting
+I, [02-22 23:49:39#17412]  INFO -- : Application starting
+W, [02-22 23:49:47#17412]  WARN -- : Fail to session:Broken pipe
+I, [02-22 23:52:36#6672]  INFO -- : Application starting
+I, [02-23 00:02:08#10412]  INFO -- : Application starting
+W, [02-23 00:02:19#10412]  WARN -- : Fail to session:Broken pipe
+I, [02-23 00:03:08#16680]  INFO -- : Application starting
+W, [02-23 00:03:31#16680]  WARN -- : Fail to session:Broken pipe
+I, [02-23 00:04:31#7148]  INFO -- : Application starting
+W, [02-23 00:04:39#7148]  WARN -- : Fail to session:Broken pipe
+I, [02-23 00:06:13#19712]  INFO -- : Application starting
+W, [02-23 00:07:13#19712]  WARN -- : Fail to session:Broken pipe
+I, [02-23 00:08:48#14688]  INFO -- : Application starting
+W, [02-23 00:09:06#14688]  WARN -- : Fail to session:Broken pipe
+I, [02-23 00:14:38#15992]  INFO -- : Application starting
+W, [02-23 00:14:51#15992]  WARN -- : Fail to session:undefined method `pus' for main:Object
+I, [02-23 00:15:36#17664]  INFO -- : Application starting
+W, [02-23 00:15:45#17664]  WARN -- : Fail to session:Broken pipe
+I, [02-23 00:16:04#4104]  INFO -- : Application starting
+I, [02-23 00:26:58#19004]  INFO -- : Application starting
+W, [02-23 00:30:37#19004]  WARN -- : Fail to session:Broken pipe
+I, [02-23 00:32:43#16196]  INFO -- : Application starting
+W, [02-23 00:33:20#16196]  WARN -- : Fail to session:Broken pipe
+I, [02-23 00:35:04#4356]  INFO -- : Application starting
+W, [02-23 00:35:44#4356]  WARN -- : Fail to session:Broken pipe
+I, [03-02 21:46:16#11268]  INFO -- : Application starting
+W, [03-02 21:46:32#11268]  WARN -- : Fail to session:undefined local variable or method `data' for main:Object
+I, [03-03 11:23:54#10388]  INFO -- : Application starting
+W, [03-03 12:03:08#10388]  WARN -- : Fail to session:Broken pipe
+I, [03-03 12:06:23#16260]  INFO -- : Application starting
+W, [03-03 12:06:33#16260]  WARN -- : Fail to session:Broken pipe
+I, [03-03 12:07:11#10844]  INFO -- : Application starting
+W, [03-03 12:07:19#10844]  WARN -- : Fail to session:Broken pipe
+I, [03-03 12:12:14#14840]  INFO -- : Application starting
+W, [03-03 12:12:40#14840]  WARN -- : Fail to session:Broken pipe
+I, [03-03 12:16:50#9808]  INFO -- : Application starting
+W, [03-03 12:17:05#9808]  WARN -- : Fail to session:Broken pipe
+I, [03-03 12:21:45#11748]  INFO -- : Application starting
+W, [03-03 12:28:37#11748]  WARN -- : Fail to session:Broken pipe
+I, [03-03 12:33:33#2336]  INFO -- : Application starting
+W, [03-03 12:34:01#2336]  WARN -- : Fail to session:Broken pipe
+I, [03-03 12:41:54#13252]  INFO -- : Application starting
+W, [03-03 12:42:38#13252]  WARN -- : Fail to session:Broken pipe
+I, [03-03 12:46:06#7788]  INFO -- : Application starting
+W, [03-03 12:48:23#7788]  WARN -- : Fail to session:Broken pipe
+I, [03-03 12:52:57#9952]  INFO -- : Application starting
+W, [03-03 12:53:15#9952]  WARN -- : Fail to session:Broken pipe
+I, [03-03 12:59:18#13396]  INFO -- : Application starting
+W, [03-03 12:59:33#13396]  WARN -- : Fail to session:Broken pipe
+I, [03-03 13:01:10#16324]  INFO -- : Application starting
+W, [03-03 13:01:18#16324]  WARN -- : Fail to session:Broken pipe
+I, [03-03 21:34:08#12032]  INFO -- : Application starting
+W, [03-03 21:53:08#12032]  WARN -- : Fail to session:undefined method `length' for nil:NilClass
+I, [03-03 21:59:19#9348]  INFO -- : Application starting
+W, [03-03 21:59:27#9348]  WARN -- : Fail to session:Broken pipe
+I, [03-03 22:00:07#5868]  INFO -- : Application starting
+W, [03-04 00:19:10#5868]  WARN -- : Fail to session:Broken pipe
+I, [03-04 00:19:31#14040]  INFO -- : Application starting
+I, [03-27 03:30:32#4896]  INFO -- : Application starting
+I, [06-19 19:59:01#9676]  INFO -- : Application starting

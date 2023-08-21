@@ -1,0 +1,5 @@
+2023-03-02 22:59
+Return data: ?search=123
+Tcp session with wrong:undefined local variable or method `data' for main:Object
+./tcp_web_server.rb:23:in `deflate_data': undefined local variable or method `data' for main:Object (NameError)
+        from ./tcp_web_server.rb:84:in `<main>'
